@@ -1,0 +1,8 @@
+{
+  "assetsDir": "assets",
+  "defaultScene": "scenes/midnight.json",
+  "lastOpenedScene": "scenes/midnight.json",
+  "name": "FL1",
+  "scriptsDir": "scripts",
+  "version": "0.4.0"
+}

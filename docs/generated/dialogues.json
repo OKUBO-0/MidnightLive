@@ -1,0 +1,134 @@
+[
+  {
+    "text": "「邪魔をしていたのは、2026年のお宅でしたか」",
+    "file": "audio/voices/line-01.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": -2
+  },
+  {
+    "text": "「数字……？ 今は、ヒロシを見ていて」",
+    "file": "audio/voices/line-02.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「待って。まだ、そこに着いていない」",
+    "file": "audio/voices/line-03.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「1。茶の間に戻ればいいのね」",
+    "file": "audio/voices/line-04.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「2……廊下？ 行ってみる」",
+    "file": "audio/voices/line-05.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「3。台所ね。ヒロシ、そこにいて」",
+    "file": "audio/voices/line-06.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「戸棚の上……あった。これを、下げれば……」",
+    "file": "audio/voices/line-07.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「暗くて、どこを触ればいいのかわからない」",
+    "file": "audio/voices/line-08.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「そこへは、ここから行けないよ。メモを見て」",
+    "file": "audio/voices/line-09.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「おかけになった番号は、現在使われておりません」",
+    "file": "audio/voices/line-10.wav",
+    "voice": "Microsoft Haruka",
+    "rate": 1
+  },
+  {
+    "text": "「もしもし？ ……お姉ちゃん、だれもしゃべらないよ」",
+    "file": "audio/voices/line-11.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": 1
+  },
+  {
+    "text": "「あの家のブレーカー？ ちょっと待ってください……」",
+    "file": "audio/voices/line-12.wav",
+    "voice": "Microsoft Haruka",
+    "rate": 1
+  },
+  {
+    "text": "「こんな時間に？ ……向こうの窓だけ、明るいね」",
+    "file": "audio/voices/line-13.wav",
+    "voice": "Microsoft Haruka",
+    "rate": 1
+  },
+  {
+    "text": "「……お話し中のようですね。また、後ほど」",
+    "file": "audio/voices/line-14.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": -2
+  },
+  {
+    "text": "「今夜のお客様が、到着しました」",
+    "file": "audio/voices/line-15.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": -2
+  },
+  {
+    "text": "「テレビのおじさんが、こっちへおいでって……」",
+    "file": "audio/voices/line-16.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": 1
+  },
+  {
+    "text": "「今夜は、留守番中のお宅にお電話しましょう」",
+    "file": "audio/voices/line-17.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": -2
+  },
+  {
+    "text": "「このままじゃ、ずっと終わらない。テレビを止めなきゃ」",
+    "file": "audio/voices/line-18.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  },
+  {
+    "text": "「何も言わないなら、もう切るよ」",
+    "file": "audio/voices/line-19.wav",
+    "voice": "Microsoft Ichiro",
+    "rate": 1
+  },
+  {
+    "text": "「台所の戸棚の上です。廊下を通って台所へ。\n1は茶の間、2は廊下、3は台所。最後は0を」",
+    "file": "audio/voices/line-20.wav",
+    "voice": "Microsoft Haruka",
+    "rate": 1
+  },
+  {
+    "text": "「ミドリちゃんが廊下へ出れば、台所は右。\n妙な番組には、番号を聞かせすぎないことだよ」",
+    "file": "audio/voices/line-21.wav",
+    "voice": "Microsoft Haruka",
+    "rate": 1
+  },
+  {
+    "text": "「消えた……！ ヒロシ、もう大丈夫」",
+    "file": "audio/voices/line-22.wav",
+    "voice": "Microsoft Sayaka",
+    "rate": 1
+  }
+]

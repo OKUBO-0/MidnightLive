@@ -1,0 +1,24 @@
+# Local editor state, builds and user progression
+/.dx12/
+/build/
+/settings.json
+/build_settings.json
+/assets/.texcache/
+/assets/scenes/_preview/
+
+# Reference material and local verification captures
+/docs/reference/
+/docs/IMPLEMENTATION_PLAN.md
+/docs/generated/*
+!/docs/generated/dialogues.json
+
+# Local tools and credentials
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+__pycache__/
+.DS_Store
+Thumbs.db
