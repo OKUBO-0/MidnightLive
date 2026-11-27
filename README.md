@@ -62,7 +62,7 @@ Uno Engine v2.6.1を用意し、エディタから `FL1.dx12proj` を開き、`s
 - `tools/build_game.mjs`：ルール・フィードバック・アダプターのLuaを結合し、編集可能なUIシーンの元JSONを生成。
 - `assets/components/MidnightGame.lua`：実行用に生成したLuaコンポーネント。
 - `assets/scenes/midnight.json`：MCPで検証・書き込みしたゲームシーン。
-- `tools/make_audio.py`：数字別のダイヤル、回線音、廊下の足音・扉など27種のWAVを生成。
+- `tools/make_audio.py`：数字別のダイヤル、発信音・呼出音・話中音、番組予告など27種のWAVを生成。
 - `tools/make_voices.ps1`：Windows日本語音声で試作用の台詞音声22本を生成。
 - `tests/midnight_core_test.lua`：19項目のルール・通し進行テスト。
 - `tests/midnight_feedback_test.lua`：受話器の位置ずれ、連打、数字の回転、予告時間等の10項目。
