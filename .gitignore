@@ -22,3 +22,16 @@
 __pycache__/
 .DS_Store
 Thumbs.db
+
+# Uno Engine (追記)
+build/
+out/
+*.user
+imgui.ini
+.vs/
+assets/.texcache/
+assets/.thumbcache/
+assets/.modelcache/
+assets/scenes/.autosave/
+.mcp.json
+.dx12/
